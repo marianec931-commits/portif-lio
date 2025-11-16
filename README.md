@@ -24,3 +24,5 @@ O objetivo do site é apresentar quem eu sou, minhas habilidades, minha formaç�
 ## Observação
 
 O site é totalmente responsivo e organizado, feito para mostrar de forma clara minhas informações pessoais e acadêmicas.
+
+video explicando no link abaixo https://youtu.be/I4BEQ-KEwK0?si=dIvYkoKluHJ04EwP
